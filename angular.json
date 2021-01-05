@@ -24,9 +24,33 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "./src/assets/css/main.css",
+              "./src/assets/css/fontawesome-all.min.css",
+              "./src/assets/css/noscript.css",
+            //  "./src/assets/sass/main_s.scss",
+              "./src/assets/sass/noscript_s.scss",
+              "./src/assets/sass/main.scss",
+              "./src/assets/sass/noscript.scss",
+              "./src/assets/css/main_s.css",
+              
+              "./src/assets/css/noscript_s.css"
+             
+              
+              
+              
             ],
-            "scripts": []
+            "scripts": [
+              "./src/assets/js/jquery.min.js",
+              "./src/assets/js/browser.min.js",
+              "./src/assets/js/breakpoints.min.js",        
+              "./src/assets/js/util.js",
+              "./src/assets/js/jquery.scrollex.min.js",
+              "./src/assets/js/jquery.scrolly.min.js",
+              "./src/assets/js/main.js",
+              "./src/assets/js/main_s.js"
+              
+            ]
           },
           "configurations": {
             "production": {
